@@ -1,0 +1,1 @@
+# wix-icon-svg
