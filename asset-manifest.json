@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//markpumpkin.github.io/wix-icon-svg/static/css/main.e58b2090.css",
+    "main.js": "//markpumpkin.github.io/wix-icon-svg/static/js/main.f83f96d2.js",
+    "static/js/787.a993185a.chunk.js": "//markpumpkin.github.io/wix-icon-svg/static/js/787.a993185a.chunk.js",
+    "index.html": "//markpumpkin.github.io/wix-icon-svg/index.html",
+    "main.e58b2090.css.map": "//markpumpkin.github.io/wix-icon-svg/static/css/main.e58b2090.css.map",
+    "main.f83f96d2.js.map": "//markpumpkin.github.io/wix-icon-svg/static/js/main.f83f96d2.js.map",
+    "787.a993185a.chunk.js.map": "//markpumpkin.github.io/wix-icon-svg/static/js/787.a993185a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58b2090.css",
+    "static/js/main.f83f96d2.js"
+  ]
+}
