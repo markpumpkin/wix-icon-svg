@@ -14,7 +14,8 @@ export type IconProps = {
 function Icon(props: IconProps) {
     const { icon } = props;
 
-    const handleCopySvg = () => {
+    const handleCopySvg = (e: any) => {
+        e.preventDefault();
         let input = document.createElement("input"); // tạo thẻ input giả
         document.body.appendChild(input); // gán thẻ đó vào bất kì đâu (sao cho không bị ảnh hướng layout nào là được)
         input.value = icon?.svg || ""; // gán giá trị vào input
