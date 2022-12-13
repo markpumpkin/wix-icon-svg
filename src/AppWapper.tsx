@@ -35,6 +35,7 @@ const AppWapper = () => {
         <div className="app-wapper">
             <div className="search-wapper">
                 <input
+                    placeholder="Search Icons"
                     type="search"
                     className="input-control"
                     onChange={handleChangeSearch}
