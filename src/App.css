@@ -8,6 +8,42 @@
     margin: auto;
 }
 
+.search-wapper {
+    width: 100%;
+    border: 1px solid #3899ec;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+}
+
+.input-control {
+    width: calc(100% - 50px);
+    height: 50px;
+    border: 0;
+    font-size: 16px;
+    padding: 2px 15px;
+}
+.input-control:focus {
+    outline: none;
+}
+
+.action-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.action-btn svg {
+    fill: #3899ec;
+}
+
 .category-wapper {
     margin-bottom: 30px;
 }
